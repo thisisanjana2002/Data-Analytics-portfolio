@@ -5,7 +5,7 @@ Hi, I'm Anjana 👋 Aspiring Data Analyst skilled in Excel. Currently learning S
 ---
 
 ### 📊 Project 1: Amazon 1M Records Analysis | Excel
-![Dashboard](01-Excel-Amazon-Analysis/dashboard-preview.png)
+<img src="01-Excel-Amazon-Analysis/dashboard-preview.png" alt="Dashboard" width="800"/>
 
 **Tools:** Excel, Power Query, Pivot Tables  
 **Problem:** Find revenue leakage points in 1M+ sales data  

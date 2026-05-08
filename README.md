@@ -42,6 +42,30 @@ Hi, I'm Anjana 👋 Aspiring Data Analyst skilled in Excel. Currently learning S
    - [Chart 4: Regional Sales](./chart4_Region_pie.png)
 
 **Business Impact:** **Other Regions + Fresh Category + Horeca Channel = 73% Revenue Driver**
+---
+
+### 📊 Project 3: Netflix Content Analysis | Python + Pandas
+
+**Tools Used:** Python, Pandas, Matplotlib, Seaborn, Google Colab
+
+**Business Problem:** Analyzed 8807 Netflix titles to understand content strategy across countries, genres, and release years.
+
+**Key Analysis Done:**
+- Movies vs TV Shows distribution analysis
+- Top 10 content producing countries  
+- Release year trend from 2000-2021
+- Most popular genres on platform
+
+**Key Insights:**
+- Movies dominate Netflix with ~70% share vs 30% TV Shows
+- USA, India, UK are top 3 content producers
+- 2018-2020 saw peak content release during streaming boom
+- International Movies, Dramas, Comedies are top genres
+
+**Project Files:** 
+📁 [View Netflix Analysis Notebook](./project3_Netflix_Analysis_Anjana.ipynb)
+
+---
 ### 🚀 Next Projects
 - SQL: Customer Segmentation Analysis - Coming Soon
 - Power BI: Sales Performance Dashboard - Coming Soon

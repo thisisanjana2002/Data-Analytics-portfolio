@@ -44,7 +44,7 @@ Hi, I'm Anjana 👋 Aspiring Data Analyst skilled in Excel. Currently learning S
 **Business Impact:** **Other Regions + Fresh Category + Horeca Channel = 73% Revenue Driver**
 ---
 
-### 📊 Project 3: Netflix Content Analysis | Python + Pandas
+## 📊 Project 3: Netflix Content Analysis | Python + Pandas
 
 **Tools Used:** Python, Pandas, Matplotlib, Seaborn, Google Colab
 

@@ -66,10 +66,26 @@ Hi, I'm Anjana 👋 Aspiring Data Analyst skilled in Excel. Currently learning S
 📁 [View Netflix Analysis Notebook](./project3_Netflix_Analysis_Anjana.ipynb)
 
 ---
-### 🚀 Next Projects
-- SQL: Customer Segmentation Analysis - Coming Soon
-- Power BI: Sales Performance Dashboard - Coming Soon
-- Python: Data Cleaning Automation - Coming Soon
+
+## 📊 Project 4: Superstore Sales Dashboard | Power BI
+Interactive dashboard analyzing Superstore sales data with **$2.30M Total Sales** and **$286.40K Total Profit**.
+
+### Key Features:
+- **KPI Cards:** Total Sales, Total Profit with Dynamic Formatting
+- **Bar Chart:** Regional Sales Performance - West, East, Central, South
+- **Pie Chart:** Profit Distribution by Category - Technology, Furniture, Office Supplies  
+- **Line Chart:** Monthly Sales Trend & Seasonality Analysis
+
+### Tools Used:
+Power BI Desktop, DAX Measures, Data Visualization
+
+### Dashboard Preview:
+![Superstore Dashboard](Superstore_Dashboard.png)
+
+### Project File:
+- 📁 [Download PBIX File](Superstore_Dashboard.pbix)
+
+
 
 ## 🛠️ Skills
 **Expert:** Microsoft Excel, Data Cleaning, Dashboarding  
@@ -78,4 +94,3 @@ Hi, I'm Anjana 👋 Aspiring Data Analyst skilled in Excel. Currently learning S
 ## 📬 Let's Connect
 **LinkedIn:** linkedin.com/in/thisisanjana2002  
 **GitHub:** github.com/thisisanjana2002
-
